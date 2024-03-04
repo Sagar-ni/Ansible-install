@@ -7,3 +7,4 @@ echo "We are learning about Git "
 #this is feature1 in new location
 
 okay no issue
+switched to feature 1
